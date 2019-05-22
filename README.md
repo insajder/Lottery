@@ -1,6 +1,6 @@
 # Lottery
 
-Program treba da omogući kreiranje i kupovinu tiketa tako što ima opciju
+Konzolni program treba da omogući kreiranje i kupovinu tiketa tako što ima opciju
 unosa tiketa, gde mora da se unese prethodno definisane podatke (primer
 ime, prezime itd.) datum se dobija na osnovu trenutnog datuma pri
 kreiranju tiketa
